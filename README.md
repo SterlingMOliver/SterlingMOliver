@@ -15,16 +15,16 @@
     </a>
 </p>
 
-### 😄 Pronouns: ...
+### 😄 Pronouns:
 he/him 
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on
 [Eden Falling - Razor Edge Games](https://edenfalling.razoredgegames.com/)
 
-### 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on
 Exciting video game projects that need VO or Sound Design, or some implementation help :) 
 
-### 📫 How to reach me: ... 
+### 📫 How to reach me:
 www.sterlingmoliver.com or on my socials linked above!
 
 
@@ -37,18 +37,18 @@ www.sterlingmoliver.com or on my socials linked above!
 [![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/sterlingmoliver)
 
 ## Engines & Middleware
-[![FMOD](https://img.shields.io/static/v1?style=for-the-badge&message=FMOD&color=000000&logo=FMOD&logoColor=FFFFFF&label=)]
-[![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)]
-[![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)]
-[![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)]
+![FMOD](https://img.shields.io/static/v1?style=for-the-badge&message=FMOD&color=000000&logo=FMOD&logoColor=FFFFFF&label=)
+![Wwise](https://img.shields.io/static/v1?style=for-the-badge&message=Wwise&color=00549F&logo=Wwise&logoColor=FFFFFF&label=)
+![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
+![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 
 ## Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sterlingmoliver)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/sterlingmoliver)
 
 ## Tracking Softwares
-[![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)]
-[![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)]
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 
 <details>
 <p align="center">
