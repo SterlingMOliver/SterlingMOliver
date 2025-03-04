@@ -19,7 +19,7 @@
 he/him 
 
 ### 🔭 I’m currently working on
-[Eden Falling - Razor Edge Games](https://edenfalling.razoredgegames.com/)
+kctheatre.info - Founder & Lead Developer, a resource for Kansas City Theatre professionals
 
 ### 👯 I’m looking to collaborate on
 Exciting video game projects that need VO or Sound Design, or some implementation help :) 
