@@ -14,7 +14,7 @@
 he/him 
 
 ### 🔭 I'm currently working on
-[kctheatre.info](https://kctheatre.info) - Founder & Lead Developer of this React-based SPA with headless CMS architecture, serving as a comprehensive resource for Kansas City Theatre professionals
+[kctheatre.info](https://kctheatre.info) - Founder & Lead Developer of this PHP/HTML-based platform with modern JavaScript integration and IONOS DeployNow CI/CD pipeline, serving as a comprehensive resource for Kansas City Theatre professionals
 
 ### 👯 I'm looking to collaborate on
 Game audio integration projects utilizing middleware APIs, real-time DSP systems, and procedural audio generation for interactive experiences
@@ -27,8 +27,11 @@ Game audio integration projects utilizing middleware APIs, real-time DSP systems
 
 
 ## 💻 Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/sterlingmoliver)
+[![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)](https://github.com/sterlingmoliver)
+[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](https://github.com/sterlingmoliver)
+[![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)](https://github.com/sterlingmoliver)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sterlingmoliver)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/sterlingmoliver)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/sterlingmoliver)
 [![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)](https://github.com/sterlingmoliver)
 [![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/sterlingmoliver)
@@ -40,6 +43,8 @@ Game audio integration projects utilizing middleware APIs, real-time DSP systems
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 
 ## 🛠️ Frameworks & DevOps
+![PHPMailer](https://img.shields.io/static/v1?style=for-the-badge&message=PHPMailer&color=111111&logo=PHP&logoColor=FFFFFF&label=)
+![IONOS DeployNow](https://img.shields.io/static/v1?style=for-the-badge&message=IONOS+DeployNow&color=003D8F&logo=IONOS&logoColor=FFFFFF&label=)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sterlingmoliver)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)](https://hub.docker.com/u/sterlingmoliver)
 ![CI/CD](https://img.shields.io/static/v1?style=for-the-badge&message=CI/CD&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
